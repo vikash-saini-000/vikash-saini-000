@@ -34,7 +34,7 @@ Currently, I work at an **intermediate full-stack level**, and I’m intentional
   - CI/CD basics
   - Deployment automation
   
--  **DSA**
+  -**DSA**
   - Arrays, strings, recursion (building consistency)
 
 ---
@@ -43,10 +43,10 @@ Currently, I work at an **intermediate full-stack level**, and I’m intentional
 
 To become a **high-impact Full-Stack Engineer** with strong foundations in:
 
-- ✅ Full-Stack Web Development
-- ☁️ DevOps & Cloud
-- 🧠 System Design
-- 🤖 Generative AI
+- Full-Stack Web Development
+- DevOps & Cloud
+- System Design
+- Generative AI
   
 
 ---
