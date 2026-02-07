@@ -3,7 +3,7 @@
 🚀 Aspiring Full-Stack Engineer | MERN Stack | DevOps & GenAI (in progress)
 
 I am an engineering student with a strong interest in building **real-world web applications**.  
-Currently, I work at an **intermediate full-stack level**, and I’m intentionally growing toward **Full-Stack + DevOps + System Design + GenAI** by **2028**.
+Currently, I work at an **intermediate full-stack level**, and I’m intentionally growing toward **Full-Stack + DevOps + System Design + GenAI** .
 
 ---
 
@@ -39,7 +39,7 @@ Currently, I work at an **intermediate full-stack level**, and I’m intentional
 
 ---
 
-## 🎯 Long-Term Goal (By 2028)
+## 🎯 Long-Term Goal
 
 To become a **high-impact Full-Stack Engineer** with strong foundations in:
 
