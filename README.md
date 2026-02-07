@@ -33,9 +33,7 @@ Currently, I work at an **intermediate full-stack level**, and I’m intentional
   - Linux fundamentals
   - CI/CD basics
   - Deployment automation
-- 🗄️ **DBMS**
-  - Relational models
-  - SQL fundamentals
+  
 - 🧠 **DSA**
   - Arrays, strings, recursion (building consistency)
 
@@ -49,8 +47,7 @@ To become a **high-impact Full-Stack Engineer** with strong foundations in:
 - ☁️ DevOps & Cloud
 - 🧠 System Design
 - 🤖 Generative AI
-- 🌐 Computer Networks
-- 🗄️ DBMS & scalable data systems
+  
 
 ---
 
