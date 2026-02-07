@@ -9,7 +9,7 @@ Currently, I work at an **intermediate full-stack level**, and I’m intentional
 
 ##     What I’m Good At Right Now
 
--  **Frontend**
+- **Frontend**
   - HTML, CSS, JavaScript
   - React.js (components, hooks, state, UI logic)
   - Responsive & mobile-friendly design
@@ -19,7 +19,7 @@ Currently, I work at an **intermediate full-stack level**, and I’m intentional
   - REST API development
   - API integration with frontend
 
--  **Developer Workflow**
+- **Developer Workflow**
   - Git & GitHub
   - Project structuring
   - Debugging real production issues
@@ -29,7 +29,7 @@ Currently, I work at an **intermediate full-stack level**, and I’m intentional
 
 ##    What I’m Currently Learning
 
--  **DevOps**
+-**DevOps**
   - Linux fundamentals
   - CI/CD basics
   - Deployment automation
