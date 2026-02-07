@@ -1,25 +1,25 @@
-# Hi 👋, I'm Vikash Saini
+# Hi , I'm Vikash Saini
 
-🚀 Aspiring Full-Stack Engineer | MERN Stack | DevOps & GenAI (in progress)
+    Aspiring Full-Stack Engineer | MERN Stack | DevOps & GenAI (in progress)
 
 I am an engineering student with a strong interest in building **real-world web applications**.  
 Currently, I work at an **intermediate full-stack level**, and I’m intentionally growing toward **Full-Stack + DevOps + System Design + GenAI** .
 
 ---
 
-## 🛠️ What I’m Good At Right Now
+##     What I’m Good At Right Now
 
-- 🌐 **Frontend**
+-  **Frontend**
   - HTML, CSS, JavaScript
   - React.js (components, hooks, state, UI logic)
   - Responsive & mobile-friendly design
 
-- ⚙️ **Backend**
+- **Backend**
   - Node.js & Express
   - REST API development
   - API integration with frontend
 
-- 🧰 **Developer Workflow**
+-  **Developer Workflow**
   - Git & GitHub
   - Project structuring
   - Debugging real production issues
@@ -27,19 +27,19 @@ Currently, I work at an **intermediate full-stack level**, and I’m intentional
 
 ---
 
-## 📚 What I’m Currently Learning
+##    What I’m Currently Learning
 
-- ☁️ **DevOps**
+-  **DevOps**
   - Linux fundamentals
   - CI/CD basics
   - Deployment automation
   
-- 🧠 **DSA**
+-  **DSA**
   - Arrays, strings, recursion (building consistency)
 
 ---
 
-## 🎯 Long-Term Goal
+##    Long-Term Goal
 
 To become a **high-impact Full-Stack Engineer** with strong foundations in:
 
@@ -51,9 +51,9 @@ To become a **high-impact Full-Stack Engineer** with strong foundations in:
 
 ---
 
-## 📌 How I Learn
+##    How I Learn
 I learn by **building projects**, breaking things, fixing bugs, and improving them step-by-step.  
 This GitHub reflects my **journey**, not just the final results.
 
-📫 Feel free to explore my repositories and follow my progress.
+ Feel free to explore my repositories and follow my progress.
 
