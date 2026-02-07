@@ -2,7 +2,7 @@
 
 🚀 Aspiring Full-Stack Engineer | MERN Stack | DevOps & GenAI (in progress)
 
-I am an engineering student with a strong interest in building **real-world web applications**.  
+I am 2nd year NITK engineering student with a strong interest in building **real-world web applications**.  
 Currently, I work at an **intermediate full-stack level**, and I’m intentionally growing toward **Full-Stack + DevOps + System Design + GenAI** by **2028**.
 
 ---
