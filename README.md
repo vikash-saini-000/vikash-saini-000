@@ -91,16 +91,7 @@ To become a **high-impact Full-Stack Engineer** with strong foundations in:
 - Built a Spotify-inspired frontend application
 - Focused on component-based architecture and UI consistency
 
----
 
-### Legacy Vault
-**Tech Stack:** React.js  
-🔗 Live: https://legacy-vault-lac.vercel.app/
-
-- Developed a secure, content-driven web application
-- Focused on routing, UI flow, and frontend structure
-
----
 
 ## Experience
 
@@ -125,7 +116,7 @@ To become a **high-impact Full-Stack Engineer** with strong foundations in:
 *Aug 2025 – Sep 2025*
 
 - Worked on frontend development and real-world project workflows
-- Implemented authentication, CRUD operations, and responsive UI
+
 
 ---
 
