@@ -50,6 +50,84 @@ To become a **high-impact Full-Stack Engineer** with strong foundations in:
   
 
 ---
+---
+
+## Projects
+
+### VikAi – AI Chatbot (In Progress)
+**Tech Stack:** MERN Stack, Google Gemini API  
+🔗 Live: https://vikai.vercel.app/
+
+- Developed an AI-powered chatbot with real-time conversational UI
+- Integrated Google Gemini API for intelligent responses
+- Designed backend APIs focusing on scalability, low latency, and secure API handling
+
+---
+
+### QuickChat – Real-Time Messaging Platform
+**Tech Stack:** MERN Stack, WebSockets  
+🔗 Live: https://chat-app-eta-gray-24.vercel.app/
+
+- Built a full-stack real-time messaging application
+- Implemented secure user authentication and profile management
+- Enabled real-time chat, presence tracking, and notifications
+
+---
+
+### Wanderlust – Travel Listing Web Application
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js  
+🔗 Live: https://wanderlust-5v2c.onrender.com/
+
+- Developed a travel listing platform with full CRUD functionality
+- Implemented user authentication, image uploads, and input validation
+- Designed responsive UI using Bootstrap and handled flash messaging
+
+---
+
+### Spotify Clone
+**Tech Stack:** React.js  
+🔗 Live: https://spotify-clone-copy.vercel.app/
+
+- Built a Spotify-inspired frontend application
+- Focused on component-based architecture and UI consistency
+
+---
+
+### Legacy Vault
+**Tech Stack:** React.js  
+🔗 Live: https://legacy-vault-lac.vercel.app/
+
+- Developed a secure, content-driven web application
+- Focused on routing, UI flow, and frontend structure
+
+---
+
+## Experience
+
+### Full-Stack Web Developer – RoboTech NITK
+*Aug 2025 – Present*
+
+- Developing and maintaining the official RoboTech Club website
+- Built scalable backend APIs and integrated frontend components
+- Collaborated on database schema design and UI workflows
+
+---
+
+### Full-Stack Web Developer – HESC NITK
+*Feb 2025 – Present*
+
+- Working on the HESC NITK website using MERN stack
+- Gained hands-on experience in database management and full-stack integration
+
+---
+
+### Full-Stack Web Developer – Wash Express
+*Aug 2025 – Sep 2025*
+
+- Worked on frontend development and real-world project workflows
+- Implemented authentication, CRUD operations, and responsive UI
+
+---
 
 ##    How I Learn
 I learn by **building projects**, breaking things, fixing bugs, and improving them step-by-step.  
